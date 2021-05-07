@@ -1,6 +1,6 @@
 # Project 1: The Number Guessing Game
 
-This is a console game  where you guess a number between 1 and 10. The job is to make a guess, and a players will get a message whether the guess is too high or too low. The next guess is based on the message. If the guess the right answer the game is done. Aim for the the lowest number of tries possible! 
+This is a console game where you guess a number between 1 and 10. The job is to make a guess, and players will get a message whether the guess is too high or too low. The next guess is based on the message. If they guess the right answer the game is done. Aim for the lowest number of tries possible!
 
 **How to run the project locally:**
 
